@@ -1,0 +1,113 @@
+body{
+  text-transform: capitalize;
+  font-family: Arial, sans-serif;
+}
+.container-fluid-head{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url('./images/IN-en-20240122-popsignuptwoweeks-perspective_alpha_website_medium.jpg')
+}
+.headimg{
+  padding-left: 70px;
+  
+}
+hr{
+  border: none;
+  height: 10px;
+  background-color: #333;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+input{
+  width: 30%;
+}
+.h1{
+  font-size: 50px;
+}
+.tv-section{
+  background-color: black;
+}
+.mobile-section{
+  background-color: black;  
+}
+.movie-section{
+  background-color: black; 
+}
+.kids-section{
+  background-color: black;
+}
+.colapse-section{
+  background-color: black;
+}
+.footer{
+  background-color: black; 
+  font-size: small; 
+} 
+.footer div a{
+  cursor: pointer;
+}
+.faq-section{
+  font-size: 30px;
+  width: 100%;
+  text-align: start;
+  font-weight: lighter;
+}
+/* **************************************login section*************************************** */
+.login-section{
+  width: 40% !important;
+  margin: auto;
+  background: linear-gradient(to top, rgba(0, 0, 0, 1) 0, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%);
+}
+.input-section{
+  width: 100%;
+  background: linear-gradient(to top,rgba(0, 0, 0, 1) 0, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%);
+}
+.button-section{
+  width: 100%; 
+}
+.recaptcha-section{
+  font-size: small;
+}
+.loginfooter-section{
+  background: linear-gradient(to top, rgba(0, 0, 0, 1) 0, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%);
+  font-size: small; 
+}
+
+/* ****************************************finish section*********************************************/
+.Finish-section-password{
+  font-size: medium;
+}
+.text-monospace{
+  font-size: small;
+}
+.Finish-section-button{
+  width: 23%;
+  font-size: 30px;
+}
+
+/* ******************************************main section************************************************************/
+.movies-bg-section{
+  background-repeat: repeat;
+  background-size:100%;
+  background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%)
+}
+.movie-text{
+  font-size: 90px;
+}
+.navbar{
+  background-color: black !important;
+}
+.mainbody{
+  background-color: black;
+}
+.posters{
+  background-color: black;
+}
+.moviesimage{
+padding: 20px;
+}
+.moviesimage:hover{
+ cursor: pointer; 
+transform: scale(1.1);
+}
+
